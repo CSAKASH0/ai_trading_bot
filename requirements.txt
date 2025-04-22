@@ -1,0 +1,9 @@
+flask
+web3
+pandas
+ccxt
+ta
+torch
+torchvision
+requests
+python-dotenv
